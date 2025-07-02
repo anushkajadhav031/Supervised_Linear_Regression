@@ -13,7 +13,7 @@ Polynomial Linear Regression – Regression using polynomial features.
 
 Each script demonstrates model training, prediction, and (optionally) visualization using scikit-learn and matplotlib.
 
-Files
+# Files
 
 simple_linear_regression.py
 
@@ -26,4 +26,4 @@ Requirements
 
 Python 3.x
 
-NumPy, pandas, scikit-learn, matplotlib
+NumPy, pandas, scikit-learn, matplotlib
