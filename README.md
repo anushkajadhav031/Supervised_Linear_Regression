@@ -1,6 +1,6 @@
+
 # Supervised_Linear_Regression
-Supervised Linear Regression
-This repository includes basic implementations of supervised regression models using Python in Jupyter Notebooks. It covers four key types of regression:
+This repository includes basic implementations of supervised regression models using Python in Jupyter Notebooks. It covers five key types of regression:
 
 Simple Linear Regression – Regression with one feature.
 
@@ -9,6 +9,8 @@ Multiple Linear Regression – Regression with multiple features.
 Polynomial Linear Regression – Regression using polynomial features.
 
 Decision Tree Regression – Regression using decision tree algorithms for capturing non-linear relationships.
+
+Random Forest Regression – Ensemble regression using multiple decision trees for improved accuracy and robustness.
 
 Each notebook demonstrates model training, prediction, and (optionally) visualization using scikit-learn and matplotlib.
 
@@ -21,6 +23,8 @@ polynomial_linear_regression.ipynb
 
 decision_tree_regression.ipynb
 
+random_forest_regression.ipynb
+
 # Requirements
 Python 3.x
 
@@ -32,4 +36,4 @@ pandas
 
 scikit-learn
 
-matplotlib
+matplotlib (only required for visualization in Random Forest Regression and other models)
